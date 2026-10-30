@@ -1,0 +1,7 @@
+C:\sintcase period 1\quizz lasse van der boom\quizz lasse van der boom\obj\Debug\quizz lasse van der boom.csproj.AssemblyReference.cache
+C:\sintcase period 1\quizz lasse van der boom\quizz lasse van der boom\obj\Debug\quizz lasse van der boom.csproj.CoreCompileInputs.cache
+C:\sintcase period 1\quizz lasse van der boom\quizz lasse van der boom\bin\Debug\quizz lasse van der boom.exe.config
+C:\sintcase period 1\quizz lasse van der boom\quizz lasse van der boom\bin\Debug\quizz lasse van der boom.exe
+C:\sintcase period 1\quizz lasse van der boom\quizz lasse van der boom\bin\Debug\quizz lasse van der boom.pdb
+C:\sintcase period 1\quizz lasse van der boom\quizz lasse van der boom\obj\Debug\quizz lasse van der boom.exe
+C:\sintcase period 1\quizz lasse van der boom\quizz lasse van der boom\obj\Debug\quizz lasse van der boom.pdb
